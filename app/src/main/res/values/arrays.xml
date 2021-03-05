@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+        <string-array name = "Autonomatofobia" id = "Autonomatofobia">
+            <item>Ver una estatuilla pequeña</item>
+            <item>Coger una estatua pequeña</item>
+            <item>Ver, a lo lejos, una estatua en la calle</item>
+            <item>Ver una estatuilla en un museo, con mucha gente</item>
+            <item>Pasar al lado de una estatua en la calle</item>
+            <item>Ir a una casa donde hay una estatua</item>
+            <item>Pasar solo/a al lado de una estatua grande en la calle</item>
+            <item>Pasar junto a una estatua en la calle, solo/a y por la noche</item>
+            <item>Estar solo en una habitacion con estatuas</item>
+
+        </string-array>
+
+</resources>

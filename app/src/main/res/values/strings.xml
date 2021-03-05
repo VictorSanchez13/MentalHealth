@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Metal Health</string>
+    <string name="explicacionAnsiedad">Es una respuesta de anticipación involuntaria del organismo frente a estímulos que pueden ser externos o internos, tales como pensamientos, ideas, imágenes, etc.
+
+        \n\nLos temores y preocupaciones son muy reales e impiden muchas veces que las personas se concentren en sus tareas diarias</string>
+
+    <string name = "funcionamientoAPP">Esta app se basa en la desensibilizacion sistemática para el tratamiento de fobias.
+
+        \n\nSe presentan estímulos de distinta intensidad para valorar la ansiedad que estos producen en el usuario
+    con el fin de ir aumentando la intensidad de dichos estímulos y reducir la ansiedad que estos producen.
+
+    .</string>
+    <string name = "advertencia">Esta app no sustituye la terapia un con un profesional.
+        \n\nSi padeces ansiedad deribada de alguna fobia, acude a un psicologo para su tratamiento.
+
+    </string>
+    <string name = "instrucciones">A continuación te mostraran una serie de items correspondientes a la fobia que hayas seleccionado, aumentando progresivamente la
+        intensidad de estos items.
+
+        \n\nCuando hayas acabado cada item, recuerda evaluar el nivel de ansiedad que esto te ha producido.</string>
+    <string name = "consejos"> Te aconsejamos que para maximizar la eficacia de la aplicación, hagas un uso continuado de esta y por supuesto,
+        \n la utilices como complemento a una terapia con un profesional.
+        \n\n Es importante que sepas que esta aplicacion no sustituye la terapia con un profesional, su papel es ser un complemento que puedas utilizar siendo guiado por tu psicólogo.
+
+        \n\n Esta apliación se basa en la desensibilización sistemática. Si necesitas información sobre la desensibilización sistemática, pincha en el botón de más abajo.\n\n\n\n\n\n
+    </string>
+
+    <string name = "uso"> Para sacar el máximo partido a la aplicación, es recomendable marcar unas pautas de uso, siendo el mínimo 1 vez a la semana.
+        \n\n Si la ansiedad que te produce un item en concreto es muy alta, tomate tu tiempo, no avances hasta que creas que es posible.
+    </string>
+
+</resources>
